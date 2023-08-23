@@ -22,6 +22,13 @@
 								<![CDATA[https://dsp2.ad-plus.com.tr/server/events?payload=b2lhTWdBaGxseVpqWP4MHsAKmr3aAMSC1iUgCG4_i3XToukNAt8S6uOlOkdXZYbQ4oIs7R95QQWjtL21-1d3PvGeGzlbQIGz3axHrxmwl2uo8fMN5xMFeTomgnED4ns6KYk9GVkqvEaq4Sf_eAfZN2r3z00YKk_4XkEThTxdSXVL1Qp1oKKuZFxcbYJ-2x0RoVYxQwtFubQrL-RMHj9QxKT7W2vbvBPM7dwYBp6dfjyAbtIGHoeDl5wfUd_pYaxYnDX7Tb9HScG_EN7HPj_liw99M1EHe-j0nRWIlxPvSd1MF5LundIzUQ5wOmjCsxsFs_pbtE5MPpRIcjBWU4Zs-4bhgZ4xDlFE6-dA6TXl4F0qwYcfzjJcucjLS6w799oPm_rkhE6XUZarExwjbf7PcjsGtA0iPNnhexQLCT0zN2-RJ0j58MUtyNntwQT99fm5lybeYnyOToc9X5kQYPX-Oq9N8SYbQYI=&type=undeterminad]]>
         </ViewUndetermined>
       </ViewableImpression>
+				<AdVerifications>
+				<Verification>
+					<JavaScriptResource>
+						<![CDATA[https://daion-static.ercdn.net/omsdk/1.4.2/omweb-v1.js]]>
+					</JavaScriptResource>
+				</Verification>
+			</AdVerifications>
 			<Creatives>
 				<Creative sequence="1">
 					<Linear>
