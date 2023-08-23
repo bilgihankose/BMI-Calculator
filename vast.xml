@@ -11,6 +11,17 @@
 			<Impression id="7ad3df16-2e13-4749-98ab-82504454e24d">
 				<![CDATA[https://dsp2.ad-plus.com.tr/server/events?payload=aU9QU1JFZnNIdHpYHUOBWOW2FguIjxN2w19aYS7f7tNEUFAoeDGfwuFXVoMyxE-cjdW_SMiyOtdPfUxbffLQfOqv5N7ZK9lXfb55hC91lBNlNKTV-Gz-lC2TV3x0ht2HK-rXpZd1HrOLzqx6UE8LjDqbm-grw859mXRC4WMgV7uN4MoA16RDOOTLkj5hO4AnHyhT_akKsNmNFYuD7Dio57s3qV54XtTMHIBIljHs4y73dRuT5ki48xs_y3mgIqanv9n9kGXHTUi3c_qnyO9IAgd-BDu916-mq5yOmBmSidQ9NeKaWALLiYufG3HfQs2T83KUUe8zvvRnnEEyjltGWZ2Kr2icr9bNUhUDHKWyMqGO326ULCGUOLQbS6sxXkQpAeUlq1XS95ng29fRg3nd9lETth89_bgdZl5BiIvWAzf3yuONVpxSE-3006ZgBRwqLJYh0cROhNQ3_t1jyYLzfhCGyg==&type=billing]]>
 			</Impression>
+			 <ViewableImpression id="1543">
+        <Viewable>
+								<![CDATA[https://dsp2.ad-plus.com.tr/server/events?payload=b2lhTWdBaGxseVpqWP4MHsAKmr3aAMSC1iUgCG4_i3XToukNAt8S6uOlOkdXZYbQ4oIs7R95QQWjtL21-1d3PvGeGzlbQIGz3axHrxmwl2uo8fMN5xMFeTomgnED4ns6KYk9GVkqvEaq4Sf_eAfZN2r3z00YKk_4XkEThTxdSXVL1Qp1oKKuZFxcbYJ-2x0RoVYxQwtFubQrL-RMHj9QxKT7W2vbvBPM7dwYBp6dfjyAbtIGHoeDl5wfUd_pYaxYnDX7Tb9HScG_EN7HPj_liw99M1EHe-j0nRWIlxPvSd1MF5LundIzUQ5wOmjCsxsFs_pbtE5MPpRIcjBWU4Zs-4bhgZ4xDlFE6-dA6TXl4F0qwYcfzjJcucjLS6w799oPm_rkhE6XUZarExwjbf7PcjsGtA0iPNnhexQLCT0zN2-RJ0j58MUtyNntwQT99fm5lybeYnyOToc9X5kQYPX-Oq9N8SYbQYI=&type=viewable]]>
+        </Viewable>
+        <NotViewable>
+								<![CDATA[https://dsp2.ad-plus.com.tr/server/events?payload=b2lhTWdBaGxseVpqWP4MHsAKmr3aAMSC1iUgCG4_i3XToukNAt8S6uOlOkdXZYbQ4oIs7R95QQWjtL21-1d3PvGeGzlbQIGz3axHrxmwl2uo8fMN5xMFeTomgnED4ns6KYk9GVkqvEaq4Sf_eAfZN2r3z00YKk_4XkEThTxdSXVL1Qp1oKKuZFxcbYJ-2x0RoVYxQwtFubQrL-RMHj9QxKT7W2vbvBPM7dwYBp6dfjyAbtIGHoeDl5wfUd_pYaxYnDX7Tb9HScG_EN7HPj_liw99M1EHe-j0nRWIlxPvSd1MF5LundIzUQ5wOmjCsxsFs_pbtE5MPpRIcjBWU4Zs-4bhgZ4xDlFE6-dA6TXl4F0qwYcfzjJcucjLS6w799oPm_rkhE6XUZarExwjbf7PcjsGtA0iPNnhexQLCT0zN2-RJ0j58MUtyNntwQT99fm5lybeYnyOToc9X5kQYPX-Oq9N8SYbQYI=&type=not_viewable]]>
+        </NotViewable>
+        <ViewUndetermined>
+								<![CDATA[https://dsp2.ad-plus.com.tr/server/events?payload=b2lhTWdBaGxseVpqWP4MHsAKmr3aAMSC1iUgCG4_i3XToukNAt8S6uOlOkdXZYbQ4oIs7R95QQWjtL21-1d3PvGeGzlbQIGz3axHrxmwl2uo8fMN5xMFeTomgnED4ns6KYk9GVkqvEaq4Sf_eAfZN2r3z00YKk_4XkEThTxdSXVL1Qp1oKKuZFxcbYJ-2x0RoVYxQwtFubQrL-RMHj9QxKT7W2vbvBPM7dwYBp6dfjyAbtIGHoeDl5wfUd_pYaxYnDX7Tb9HScG_EN7HPj_liw99M1EHe-j0nRWIlxPvSd1MF5LundIzUQ5wOmjCsxsFs_pbtE5MPpRIcjBWU4Zs-4bhgZ4xDlFE6-dA6TXl4F0qwYcfzjJcucjLS6w799oPm_rkhE6XUZarExwjbf7PcjsGtA0iPNnhexQLCT0zN2-RJ0j58MUtyNntwQT99fm5lybeYnyOToc9X5kQYPX-Oq9N8SYbQYI=&type=undeterminad]]>
+        </ViewUndetermined>
+      </ViewableImpression>
       	<AdVerifications>
 				<Verification>
 					<JavaScriptResource>
