@@ -23,9 +23,9 @@
         </ViewUndetermined>
       </ViewableImpression>
 				<AdVerifications>
-				<Verification>
-					<JavaScriptResource>
-						<![CDATA[https://daion-static.ercdn.net/omsdk/1.4.2/omweb-v1.js]]>
+				<Verification vendor=”ADPLATFORM-omid”>
+					<JavaScriptResource apiFramework="omid" browserOptional=”true”>
+						<![CDATA[https://raw.githubusercontent.com/bilgihankose/BMI-Calculator/master/omidweb-v1.js]]>
 					</JavaScriptResource>
 				</Verification>
 			</AdVerifications>
