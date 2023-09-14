@@ -1,5 +1,4 @@
-<VAST
-	xmlns="http://www.iab.com/VAST" version="4.2">
+<VAST xmlns="http://www.iab.com/VAST" version="4.2">
 	<Ad>
 		<Wrapper>
 			<AdSystem version="1.0">AdPlus DSP</AdSystem>
