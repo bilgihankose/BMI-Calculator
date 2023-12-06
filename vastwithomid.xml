@@ -11,7 +11,7 @@
 </Impression>
 <AdVerifications>
     <Verification vendor="ad-plus.com-omid">
-        <JavaScriptResource><![CDATA[https://raw.githubusercontent.com/bilgihankose/BMI-Calculator/master/omid-verification-client-v1.js]]></JavaScriptResource>
+        <JavaScriptResource apiFramework="omid" browserOptional="true"><![CDATA[https://raw.githubusercontent.com/bilgihankose/BMI-Calculator/master/omid-verification-client-v1.js]]></JavaScriptResource>
             <VerificationParameters>
                 <![CDATA[parameter1=value1&parameter2=value2&parameter3=value3]]>
             </VerificationParameters>
