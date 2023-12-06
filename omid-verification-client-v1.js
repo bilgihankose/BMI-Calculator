@@ -1,5 +1,6 @@
 ;(function(omidGlobal, factory, exports) {
   // CommonJS support
+  console.log("Hello from here")
   if (typeof exports === 'object' && typeof exports.nodeName !== 'string') {
     factory(omidGlobal, exports);
 
@@ -12,7 +13,6 @@
     if (!!additionalVersionString) {
        versions.push(additionalVersionString);
     }
-    console.log("Hello from here")
 
     factory(omidGlobal, exports);
 
