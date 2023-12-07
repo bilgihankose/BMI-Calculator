@@ -1,7 +1,7 @@
 const OmidSessionClient = OmidSessionClient && OmidSessionClient['default'];
 
 const OMSDK_SERVICE_WINDOW = window.top;
-const VIDEO_ELEMENT = document.getElementById('contentElement');
+const VIDEO_ELEMENT = document.getElementById('h5-player');
 
 // Assuming you have an `ad` object roughly following VAST 4.1 schema.
 const resources = ad.adVerifications.map((verification) => {
