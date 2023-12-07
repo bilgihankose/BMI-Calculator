@@ -48,7 +48,8 @@ adSession.start();
 // this should be within the same callback as the load event from the previous step
 adSession.registerSessionObserver((event) => {
   if (event.type === "sessionStart") {
-    ...
+    alert("Hello")
+    console.log("Hello")
     adEvents.impressionOccurred();
     ...
   } else if (event.type === "sessionError") {
