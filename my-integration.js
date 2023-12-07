@@ -18,8 +18,12 @@ context.setServiceWindow(OMSDK_SERVICE_WINDOW);
 let sessionClient;
 try {
   sessionClient = OmidSessionClient['default'];
-} catch (e) { /* Can't use OM SDK :( */ return; }
-if (!sessionClient) { /* Can't use OM SDK :( */ return; }
+} catch (e) { /* Can't use OM SDK :( */ 
+  return
+}
+if (!sessionClient) { /* Can't use OM SDK :( */ 
+  return;
+}
 
 const AdSession = sessionClient.AdSession;
 const Partner = sessionClient.Partner;
@@ -51,7 +55,6 @@ adSession.registerSessionObserver((event) => {
     alert("Hello")
     console.log("Hello")
     adEvents.impressionOccurred();
-    ...
   } else if (event.type === "sessionError") {
     // handle error
   } else if (event.type === "sessionFinish") {
