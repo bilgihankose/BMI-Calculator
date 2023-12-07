@@ -14,10 +14,6 @@ const compmanyDotComSessionStartEvent = {
 'adSessionId': 'ABC-123',
 'type': 'sessionStart',
 'timestamp': 123456,
-'data': {
-'context': {...},
-'verificationParameters': "{'id': 1234, 'option': true}"
-},
 };
 observer(companyDotComSessionStartEventData);
 
